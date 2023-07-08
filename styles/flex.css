@@ -1,0 +1,33 @@
+.main_container{
+    border: 1px solid greenyellow;
+    display: flex;
+    background-color:white;
+    justify-content: baseline;
+    /* flex-ditrection: stretch;*/
+    align-items: center;
+}
+.cont:nth-child(5){
+    width: 100px;
+    height: 150px;
+    background-color: aqua;
+}
+.cont:nth-child(1){
+    width: 105px;
+    height: 120px;
+    background-color: blue;
+}
+.cont:nth-child(2){
+    width: 75px;
+    height: 92px;
+    background-color: brown;
+}
+.cont:nth-child(3){
+    width: 100px;
+    height: 160px;
+    background-color: yellow;
+}
+.cont:nth-child(4){
+    width: 100px;
+    height: 165px;
+    background-color: olivedrab;
+}
